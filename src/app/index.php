@@ -1,4 +1,4 @@
-<?
+<?php
 //Handlers
 require("handlers/XXX.php");
 

@@ -1,7 +1,5 @@
-<?
+<?php
 require("Toro.php");
-
-$hello = new HelloHandler();
 
 class HelloHandler {
     public function HelloHandler()
